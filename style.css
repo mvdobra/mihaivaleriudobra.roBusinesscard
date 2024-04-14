@@ -11,6 +11,7 @@ body {
   .card {
     width: auto;
     height: auto;
+    align-items: center;
     background-color: gold;
     border-radius: 55px;
     box-shadow: 0px 0px 50px rgb(78, 78, 78);
@@ -18,15 +19,18 @@ body {
   }
 
   .profileImg {
-    text-align: center;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
     padding-top: 30px;
   }
 
   .profileImg img {
-    width: 200px;
-    height: 200px;
     border-radius: 50%;
     box-shadow: 0px 0px 14px black;
+    height: 100%;
+    width: 100%;
   }
 
   .nameTitle {
@@ -37,15 +41,15 @@ body {
   
   .contact-info {
     text-align: left;
-    font-size: 22px;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
   }
 
   .contact-info a {
-    text-decoration-line: none;
     color: black;
+    font-size: 22px;
+    text-decoration-line: none;
   }
 
   .icon {
