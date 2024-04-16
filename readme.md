@@ -1,2 +1,2 @@
-# Mihai-Valeriu Dobra Business Card
-## https://www.mihaivaleriudobra.ro
+# Mihai-Valeriu Dobra Simple Business Card
+### https://www.mihaivaleriudobra.ro
